@@ -1,8 +1,8 @@
-package com.ahmetov.introduction;
+package com.ahmetov.strategy;
 
-import com.ahmetov.introduction.model.BrownDuck;
-import com.ahmetov.introduction.model.Duck;
-import com.ahmetov.introduction.model.ToyDuck;
+import com.ahmetov.strategy.model.BrownDuck;
+import com.ahmetov.strategy.model.Duck;
+import com.ahmetov.strategy.model.ToyDuck;
 
 public class IntroMain {
     public static void main(String[] args) {

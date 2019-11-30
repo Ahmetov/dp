@@ -1,7 +1,7 @@
-package com.ahmetov.introduction.model;
+package com.ahmetov.strategy.model;
 
-import com.ahmetov.introduction.behavior.FlyBehavior;
-import com.ahmetov.introduction.behavior.QuackBehavior;
+import com.ahmetov.strategy.behavior.FlyBehavior;
+import com.ahmetov.strategy.behavior.QuackBehavior;
 
 public abstract class Duck {
     protected FlyBehavior flyBehavior;  //each duck fly differently (mostly cant -> empty impl)

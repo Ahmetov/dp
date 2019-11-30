@@ -1,4 +1,4 @@
-package com.ahmetov.introduction.behavior;
+package com.ahmetov.strategy.behavior;
 
 //dy default always public
 public interface QuackBehavior {

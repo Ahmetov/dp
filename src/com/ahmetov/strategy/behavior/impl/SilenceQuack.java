@@ -1,6 +1,6 @@
-package com.ahmetov.introduction.behavior.impl;
+package com.ahmetov.strategy.behavior.impl;
 
-import com.ahmetov.introduction.behavior.QuackBehavior;
+import com.ahmetov.strategy.behavior.QuackBehavior;
 
 public class SilenceQuack implements QuackBehavior {
     @Override

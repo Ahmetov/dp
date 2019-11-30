@@ -1,6 +1,6 @@
-package com.ahmetov.introduction.behavior.impl;
+package com.ahmetov.strategy.behavior.impl;
 
-import com.ahmetov.introduction.behavior.FlyBehavior;
+import com.ahmetov.strategy.behavior.FlyBehavior;
 
 public class FlyWithRocket implements FlyBehavior {
     @Override
